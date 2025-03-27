@@ -1,0 +1,8 @@
+[submodule "scripts"]
+    path = scripts
+    url = https://github.com/The-Astrl-Project/astrl-utilities.git
+    branch = main
+[submodule "lib/posix-uefi"]
+	path = lib/posix-uefi
+	url = https://gitlab.com/bztsrc/posix-uefi
+	branch = master
